@@ -1,7 +1,7 @@
 # Curadoria de Fontes
 
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-- [Microsoft Research Open Data](https://msropendata.com/)
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-llm-applications/)
-- [MIT Technology Review – Generative AI and Cybersecurity](https://www.technologyreview.com/2023/09/21/1070060/generative-ai-cybersecurity/)
+- [OWASP – GenAI Security](https://genai.owasp.org/)  
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)  
+- [Microsoft Research Open Data](https://msropendata.com/)  
+- [Kaggle Datasets](https://www.kaggle.com/datasets)  
+- [Elastic – Guide to High-Volume Data Sources for SIEM](https://www.elastic.co/campaigns/guide-to-high-volume-data-sources-for-siem)  
