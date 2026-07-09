@@ -1,4 +1,4 @@
- Curadoria de Fontes
+# Curadoria de Fontes
 - [OpenAI – Trusted Access for Cyber](https://openai.com/news/trusted-access-for-cyber/)
 - [AWS – Considerações de segurança para dados em IA generativa](https://aws.amazon.com/pt/architecture/security-considerations-for-generative-ai-data/)
 - [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-llm-applications/)
